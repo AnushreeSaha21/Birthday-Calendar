@@ -22,47 +22,7 @@
   flex-wrap: wrap;
 }
 
-.css-1hbyad5-MuiTypography-root {
-  display: none !important;
-}
 
-.css-gqp4xl-MuiPickersLayout-root .MuiPickersLayout-actionBar {
-  display: none !important;
-}
-
-.css-1wsi274-MuiPickersToolbar-content {
-  justify-content: center !important;
-}
-
-.css-gqp4xl-MuiPickersLayout-root {
-  /*  box-shadow: 3px 2px 10px 5px #888888 !important; */
-  box-shadow: 3px 2px 10px 5px #285848 !important;
-  border-radius: 20px 20px 0 0;
-  max-height: 400px;
-}
-
-.css-1eurbeq-MuiPickersToolbar-root-MuiDatePickerToolbar-root {
-  padding: 0 !important;
-  background-color: #139166;
-}
-
-.css-23p0if-MuiButtonBase-root-MuiPickersDay-root.Mui-selected {
-  /*  background-color: #139166 !important;*/
-  background-color: #4CAF50 !important;
-}
-
-.css-1wy8uaa-MuiButtonBase-root-MuiPickersDay-root.Mui-selected {
-  /*  background-color: #139166 !important;*/
-  background-color: #4CAF50 !important;
-}
-
-.css-3jvy96-MuiTypography-root-MuiDatePickerToolbar-title {
-  font-family: "Lancelot", serif !important;
-  font-weight: 600 !important;
-  font-style: normal;
-  color: gainsboro;
-  padding: 25px;
-}
 
 /*    FOOTER       */
 

@@ -3,7 +3,7 @@ import Time from './Time';
 
 const Navbar = () => {
   const copyToClipboard = () => {
-    const link = 'https://github.com/AnushreeSaha21/Birthday-Calendar.git';
+    const link = 'https://github.com/AnushreeSaha21/Birthday-Calendar/tree/master';
     navigator.clipboard.writeText(link).then(() => {
       alert('Link copied to clipboard!');
     }).catch((error) => {
